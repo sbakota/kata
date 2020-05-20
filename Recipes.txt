@@ -11,3 +11,5 @@ sdf
 sd
 
 NESTO NOVO
+
+gotovo
